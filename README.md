@@ -1,4 +1,5 @@
 # ImageClassificationApplication
+[![Build test with Github Actions](https://github.com/BombayBrownBoy09/ImageClassificationApp/actions/workflows/main.yml/badge.svg)](https://github.com/BombayBrownBoy09/ImageClassificationApp/actions/workflows/main.yml)
 
 [Streamlit Application Link](https://bombaybrownboy09-imageclassificationapp-training-ah8ykd.streamlitapp.com/)
 
