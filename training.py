@@ -40,7 +40,7 @@ def run():
         with b1:
             submit = st.form_submit_button(label='Submit')
         with b2:
-            clear = st.form_submit_button(label='Reset', on_click=clearform)
+            st.form_submit_button(label='Reset', on_click=clearform)
 
     if submit and new_review !='':
         # Generate prediction
