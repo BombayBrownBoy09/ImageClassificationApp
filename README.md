@@ -15,7 +15,7 @@ In this project, I hope to deploy a load tested Microservice ML Endpoint that us
 
 
 ### Load testing App
-Settings: 30 users at a spawn rate of 1
+**Settings:** 30 users at a spawn rate of 1
 
 <p align="center">
   <img src="https://github.com/BombayBrownBoy09/ImageClassificationApp/blob/main/images/locust1.png" />
