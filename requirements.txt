@@ -4,4 +4,4 @@ requests
 pylint
 black
 pytest
-pytorch
+torch
