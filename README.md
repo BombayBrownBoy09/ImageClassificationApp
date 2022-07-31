@@ -10,7 +10,10 @@
 <p align="right">
   <img src="https://github.com/BombayBrownBoy09/ImageClassificationApp/blob/main/images/Result.png" />
 </p>
-### Load testing App - 30 users at a spawn rate of 1
+
+
+### Load testing App
+Settings: 30 users at a spawn rate of 1
 
 <p align="center">
   <img src="https://github.com/BombayBrownBoy09/ImageClassificationApp/blob/main/images/locust1.png" />
