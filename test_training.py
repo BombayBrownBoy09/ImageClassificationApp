@@ -1,5 +1,4 @@
 from training import classified_image
-from click.testing import CliRunner
 
 
 def test_classified_image():
