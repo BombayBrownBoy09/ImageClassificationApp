@@ -2,7 +2,7 @@
 
 [Streamlit Application Link](https://bombaybrownboy09-imageclassificationapp-training-ah8ykd.streamlitapp.com/)
 
-Sample input and attached prediction:
+**Sample input and attached prediction:**
 <p align="left">
   <img src="https://github.com/BombayBrownBoy09/ImageClassificationApp/blob/main/images/Pizza.png" />
 </p>
