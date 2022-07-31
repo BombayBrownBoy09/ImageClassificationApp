@@ -1,7 +1,6 @@
 from locust import HttpUser, task
 
 class AppUser(HttpUser):
-    wait_time = between(2,5)
   
     @task
     def home_page(self):
