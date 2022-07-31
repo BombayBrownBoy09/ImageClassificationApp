@@ -10,7 +10,6 @@ import click
     default="http://images.cocodataset.org/val2017/000000039769.jpg",
 )
 def classified_image(url):
-    url = url
     image = Image.open(requests.get(url, stream=True).raw)
 
     feature_extractor = ViTFeatureExtractor.from_pretrained('google/vit-base-patch16-224')
