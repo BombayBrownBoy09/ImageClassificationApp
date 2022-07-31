@@ -4,7 +4,7 @@
 
 Sample input and attached prediction:
 <p align="center">
-  <img src="https://github.com/BombayBrownBoy09/ImageClassificationApp/blob/main/images/pizza.png" />
+  <img src="https://github.com/BombayBrownBoy09/ImageClassificationApp/blob/main/images/Pizza.png" />
 </p>
 <p align="center">
   <img src="https://github.com/BombayBrownBoy09/ImageClassificationApp/blob/main/images/Result.png" />
