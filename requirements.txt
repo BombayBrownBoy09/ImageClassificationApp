@@ -5,3 +5,4 @@ pylint
 black
 pytest
 torch
+streamlit
