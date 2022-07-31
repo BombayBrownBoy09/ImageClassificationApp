@@ -1,1 +1,1 @@
-# DetectronApplication
+# ImageClassificationApplication
