@@ -1,3 +1,5 @@
 transformers
 pillow
 requests
+pylint
+black
