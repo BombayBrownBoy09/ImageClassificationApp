@@ -1,14 +1,8 @@
 from transformers import ViTFeatureExtractor, ViTForImageClassification
 from PIL import Image
 import requests
-import click
 
-@click.command()
-@click.option(
-    "--url",
-    type=str,
-    default="http://images.cocodataset.org/val2017/000000039769.jpg",
-)
+
 def classified_image(url):
     image = Image.open(requests.get(url, stream=True).raw)
 
@@ -23,4 +17,3 @@ def classified_image(url):
     result = model.config.id2label[predicted_class_idx]
     print("Predicted class:", result)
     return result
-
