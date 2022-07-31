@@ -3,3 +3,4 @@ pillow
 requests
 pylint
 black
+pytest
